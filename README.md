@@ -1,6 +1,6 @@
 
 ### Hi there 👋, my name is Rhythm
-####  i'm a react developer that posses a great interest into threejs , Gsap and a bit Game Development.
+####  i'm a react developer that posses a great interest into threejs , Gsap, Game Development with js & backend.
 ![ i'm a react developer that posses a great interest into threejs , Gsap and a bit Game Development.](https://media.licdn.com/dms/image/D4D16AQFWlgnIn_5pqw/profile-displaybackgroundimage-shrink_350_1400/0/1693920785846?e=1729123200&v=beta&t=B1KklQ1VKMTsjGzrYahLJ44HtvpE_FTwSkT3RRhV8FM)
 
  I have worked on Threejs, Gsap , kaboom with tailwind css and material UI. I also like to make youtube videos
