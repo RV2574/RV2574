@@ -11,7 +11,6 @@ Skills: HTML / CSS / JS / REACTJS / TAILWIND CSS / MATERIAL UI / CHAKRA UI / JAV
 - 🌱 I’m currently learning MERN STACK 
 - 🤔 I’m looking for help with My 3d customize tshirt threejs app 
 - 📫 How to reach me: linkedin.com/in/rhythm-verma-963357247 & rythmevadodaria@gmail.com 
-- 😄 Pronouns: he/him 
 - ⚡ Fun fact: I am doing Engineering  
 
 
